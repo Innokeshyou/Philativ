@@ -1,0 +1,46 @@
+/* Sectiom Top */
+
+.prof{
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 92.64px;
+    color:#FFFFFF94;
+    margin: 0;
+}
+
+.name{
+    font-size: 54px;
+    font-weight: 400;
+    line-height: 54px;
+    color: var(--color-text);
+    margin: 0;
+    margin-top: -15px;
+}
+
+.list_top{
+    list-style-image: url(../images/list_style.svg);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 44px;
+    color: var(--color-text-top);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.photo{
+    position: absolute;
+    top: 140px;
+    left: 1355px;
+}
+
+/* Section Wrapper*/
+
+
+
+.section_h2{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 44px;
+    color: (var--color-h2);
+}

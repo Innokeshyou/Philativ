@@ -1,0 +1,22 @@
+:root{
+    --color-bg-dark: #2A323F; 
+    --color-text-top: #d4d4d4;
+    --color-text: #fafafa;
+    --color-text-black:#000000;
+    --color-h2:#0B1F33;
+    
+     
+    --layout-width: 1290px;
+
+}
+
+
+
+body{
+    background-color:#F4F5EF;
+    padding: 0 ;
+    margin: 0;
+    font-family: 'Roboto';
+    
+}
+
