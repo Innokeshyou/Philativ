@@ -52,6 +52,12 @@ footer {
     line-height: 34.57px;
     color: var(--color-text);
     margin: 8px 0 12px;
+    text-decoration: none;
+}
+
+.footer_phonnum:hover {
+    color: #9D9D9D;
+    text-decoration: underline;
 }
 
 .feedback {
@@ -79,7 +85,16 @@ footer {
     width: 350px;
     font-size: 16px;
     font-weight: 400;
+
+}
+
+.email_link {
+    text-decoration: none;
     color: var(--color-text);
+}
+
+.email_link:hover {
+    color: #9D9D9D;
 }
 
 .footer_nav {

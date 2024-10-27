@@ -221,6 +221,11 @@
     margin-left: 140px;
 }
 
+.group2_item1_button:hover {
+    background-color: #968b65;
+    cursor: pointer;
+}
+
 .group2_item2 {
     background: #606060;
     padding: 20px 30px 10px 35px;
