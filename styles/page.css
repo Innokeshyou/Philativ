@@ -10,6 +10,12 @@
 /* Section wrapper */
 
 .section_wrapper {
+    max-width: 1290px;
+    margin: 200px auto;
+}
 
-    margin: 150px 500px 150px 715px;
+.section_group1 {
+    display: flex;
+    width: calc(407 + 883);
+    height: 728px;
 }
