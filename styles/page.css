@@ -11,11 +11,33 @@
 
 .section_wrapper {
     max-width: 1290px;
-    margin: 200px auto;
+    margin: 200px auto 70px;
+}
+
+.section_wrapper2 {
+    max-width: 1290px;
+    margin: 0 auto;
+}
+
+.section_wrapper3 {
+    max-width: 1290px;
+    margin: 54px auto;
+    display: flex;
+    gap: 30px;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 50px;
+    color: #2A323F;
+    align-items: center;
 }
 
 .section_group1 {
     display: flex;
     width: calc(407 + 883);
     height: 728px;
+}
+
+.section_group2 {
+    display: flex;
+    width: calc(407 + 883);
 }
