@@ -87,6 +87,7 @@ footer {
     font-weight: 400;
     line-height: 34px;
     list-style: none;
+    padding: 0;
 }
 
 .footer_nav_link {
