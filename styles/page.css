@@ -1,17 +1,29 @@
 /* Section Top */
 
+.section_headtop{
+    display: flex;
+}
+
+.section_top{
+    max-width: 1494px;
+    margin-left: 111px;
+}
+
+.ghost_div{
+    max-width: 408px;
+}
+
 .bg_color {
     background-color: var(--color-bg-dark);
-    margin-left: 111px;
-    margin-right: 553px;
-
+    max-width: 1239px;
+    padding: 0 666px 0 0;
 }
 
 /* Section wrapper */
 
 .section_wrapper {
     max-width: 1290px;
-    margin: 200px auto 70px;
+    margin: 100px auto 70px;
 }
 
 .section_wrapper2 {

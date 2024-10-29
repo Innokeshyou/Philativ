@@ -34,10 +34,16 @@
     margin-bottom: 15px;
 }
 
+.ghost_div{
+    width: 408px;
+    height: 534px;
+}
+
 .photo {
-    position: absolute;
-    top: 140px;
-    left: 965px;
+    /*position: relative;
+    top: -500px;
+    left: 945px;*/
+    margin: 0 0 0 -400px;
 }
 
 /* Section Wrapper 1*/
@@ -228,7 +234,7 @@
 
 .group2_item2 {
     background: #606060;
-    padding: 20px 30px 10px 35px;
+    padding: 5px 30px 25px 35px;
     border-radius: 0 0 0 10px;
 }
 
