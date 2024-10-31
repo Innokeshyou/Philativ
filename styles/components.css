@@ -40,9 +40,6 @@
 }
 
 .photo {
-    /*position: relative;
-    top: -500px;
-    left: 945px;*/
     margin: 0 0 0 -400px;
 }
 
@@ -86,7 +83,7 @@
     background-color: #DECE93;
     font-size: 18px;
     font-weight: 400;
-    margin-left: 10px;
+    margin-left: 30px;
     border: none;
 }
 
@@ -100,6 +97,9 @@
 .group_item2 {
     background: #606060;
     padding: 10px 32px 37px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
 }
 
 .group_item2_h3 {
@@ -118,7 +118,7 @@
     font-size: 18px;
     font-weight: 400;
     border: none;
-    margin-left: 70px;
+    margin-left: 100px;
 }
 
 .group_item2_button:hover {
@@ -216,6 +216,12 @@
     margin-bottom: 32px;
 }
 
+.button_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .group2_item1_button {
     border: none;
     width: 314px;
@@ -224,7 +230,7 @@
     font-size: 18px;
     font-weight: 400;
     color: #2A323F;
-    margin-left: 140px;
+   
 }
 
 .group2_item1_button:hover {

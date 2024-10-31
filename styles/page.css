@@ -2,15 +2,9 @@
 
 .section_headtop{
     display: flex;
-}
-
-.section_top{
-    max-width: 1494px;
-    margin-left: 111px;
-}
-
-.ghost_div{
-    max-width: 408px;
+    max-width: 1794px;
+    margin: 0 auto;
+    margin-bottom: 70px;
 }
 
 .bg_color {
@@ -22,18 +16,21 @@
 /* Section wrapper */
 
 .section_wrapper {
-    max-width: 1290px;
-    margin: 100px auto 70px;
+    max-width: 1390px;
+    margin: 0 auto;
+    margin-bottom: 70px;
 }
 
 .section_wrapper2 {
-    max-width: 1290px;
+    max-width: 1390px;
     margin: 0 auto;
+    margin-bottom: 70px;
 }
 
 .section_wrapper3 {
-    max-width: 1290px;
-    margin: 54px auto;
+    max-width: 1390px;
+    margin: 0 auto;
+    margin-bottom: 30px;
     display: flex;
     gap: 30px;
     font-size: 25px;
@@ -52,4 +49,9 @@
 .section_group2 {
     display: flex;
     width: calc(407 + 883);
+}
+
+.footer_section_wrapper{
+    max-width: 1390px;
+    margin: 0 auto;
 }
